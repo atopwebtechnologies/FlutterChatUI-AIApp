@@ -5,7 +5,7 @@ Welcome to Atop Web Technologies' live coding session! Today, you'll demonstrate
 
 ## 🎨 Design Inspiration
 Take a look at this Dribbble shot that we'll use as our muse for today's challenge:
-![Live Chat Messaging App UI](https://dribbble.com/shots/20492559-Live-Chat-Messaging-App-UI)
+![Live Chat Messaging App UI] https://dribbble.com/shots/20492559-Live-Chat-Messaging-App-UI
 
 ## 🛠️ What We're Building
 You'll craft a user interface in Flutter that encompasses the key elements of our chosen design. Focus on front-end and visual fidelity—no backend required for now.
